@@ -21,11 +21,6 @@ header {
   text-align: center;
 }
 
-@media only screen and (max-width: 768px){
-  .mobile{
-    visibility: visible;
-  }
-
 .learn-image{
   width: 60%;
   height: auto;
